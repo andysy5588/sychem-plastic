@@ -1,2 +1,2 @@
-# sychem-plastic
-Supply various kinds of plastic products 
+# sychem-tumbler
+Supply various kinds of plastic tumbler 
